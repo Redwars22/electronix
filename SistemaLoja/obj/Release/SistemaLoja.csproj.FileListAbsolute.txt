@@ -1,0 +1,3 @@
+C:\Users\leoan\OneDrive\Documentos\SharpDevelop Projects\SistemaLoja\SistemaLoja\bin\Release\SistemaLoja.exe
+C:\Users\leoan\OneDrive\Documentos\SharpDevelop Projects\SistemaLoja\SistemaLoja\obj\Release\SistemaLoja.csprojResolveAssemblyReference.cache
+C:\Users\leoan\OneDrive\Documentos\SharpDevelop Projects\SistemaLoja\SistemaLoja\obj\Release\SistemaLoja.exe

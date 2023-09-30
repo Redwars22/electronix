@@ -1,0 +1,5 @@
+C:\Users\leoan\OneDrive\Documentos\SharpDevelop Projects\SistemaLoja\SistemaLoja\bin\Debug\SistemaLoja.exe
+C:\Users\leoan\OneDrive\Documentos\SharpDevelop Projects\SistemaLoja\SistemaLoja\bin\Debug\SistemaLoja.pdb
+C:\Users\leoan\OneDrive\Documentos\SharpDevelop Projects\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.csprojResolveAssemblyReference.cache
+C:\Users\leoan\OneDrive\Documentos\SharpDevelop Projects\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.exe
+C:\Users\leoan\OneDrive\Documentos\SharpDevelop Projects\SistemaLoja\SistemaLoja\obj\Debug\SistemaLoja.pdb
